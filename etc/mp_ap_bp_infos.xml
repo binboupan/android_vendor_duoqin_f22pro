@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameter_infomations>
+    <!--
+       都是字符串,主要是表达当前软件集成的状态
+       目前三种信息,如果有新的参数要显示, 可以按照格式增加.
+       paratype 是一个参数类型 . <paratype></paratype> 里面可以包含多个node
+                platform 是平台信息
+                baseline 是基线信息
+                modem_version 是modem的版本
+       -->
+
+<!--alps-mp-s0.mp1-V5.0.1-->
+    <paratype>
+        <platform>mt6761</platform>
+        <baseline>alps-mp-s0.mp1-V5.0.1</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V194.8,MOLY.LR12A.R3.MP.V194.8</modem_version>
+    </paratype>
+    <paratype>
+        <platform>mt6765</platform>
+        <baseline>alps-mp-s0.mp1-V5.0.1</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V194.8,MOLY.LR12A.R3.MP.V194.8</modem_version>
+    </paratype>  
+    <paratype>
+        <platform>mt6580</platform>
+        <baseline>alps-mp-s0.mp1-V5.0.1</baseline>
+        <modem_version>MOLY.WR8.W1449.MD.WG.MP.V365.6\, 2021/12/17 1,MOLY.WR8.W1449.MD.WG.MP.V365.6\, 2021/12/17 1</modem_version>
+    </paratype> 
+<!--alps-mp-s0.mp1-V5.0.1-->
+
+<!--alps-mp-s0.mp1-V7.10.4-->
+    <paratype>
+        <platform>mt6580</platform>
+        <baseline>alps-mp-s0.mp1-V7.10.4</baseline>
+        <modem_version>MOLY.WR8.W1449.MD.WG.MP.V370\, 2022/01/18 10:,MOLY.WR8.W1449.MD.WG.MP.V370\, 2022/01/18 10:</modem_version>
+    </paratype>  
+<!--alps-mp-s0.mp1-V7.10.4-->
+
+<!--alps-mp-s0.mp1-V8.7.2-->
+    <paratype>
+        <platform>mt6580</platform>
+        <baseline>alps-mp-s0.mp1-V8.7.2</baseline>
+        <modem_version>MOLY.WR8.W1449.MD.WG.MP.V372\, 2022/02/14 15:,MOLY.WR8.W1449.MD.WG.MP.V372\, 2022/02/14 15:</modem_version>
+    </paratype>  
+    <paratype>
+        <platform>mt6761</platform>
+        <baseline>alps-mp-s0.mp1-V8.7.2</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V201.3,MOLY.LR12A.R3.MP.V201.3</modem_version>
+    </paratype>
+<!--alps-mp-s0.mp1-V8.7.2-->
+<!--alps-mp-s0.mp1-V8.30-->
+    <paratype>
+        <platform>mt6765</platform>
+        <baseline>alps-mp-s0.mp1-V8.30</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V206.5,MOLY.LR12A.R3.MP.V206.5</modem_version>
+    </paratype> 
+    <paratype>
+        <platform>mt6761</platform>
+        <baseline>alps-mp-s0.mp1-V8.30</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V206.5,MOLY.LR12A.R3.MP.V206.5</modem_version>
+    </paratype>
+    <paratype>
+        <platform>mt6580</platform>
+        <baseline>alps-mp-s0.mp1-V8.30</baseline>
+        <modem_version>MOLY.WR8.W1449.MD.WG.MP.V377\, 2022/03/03 16:,MOLY.WR8.W1449.MD.WG.MP.V377\, 2022/03/03 16:</modem_version>
+    </paratype>
+    <paratype>
+        <platform>mt6768</platform>
+        <baseline>alps-mp-s0.mp1-V8.30</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V206.5,MOLY.LR12A.R3.MP.V206.5</modem_version>
+    </paratype>
+<!--alps-mp-s0.mp1-V8.30-->
+<!--alps-mp-s0.mp1-V9.16.3-->
+    <paratype>
+        <platform>mt6761</platform>
+        <baseline>alps-mp-s0.mp1-V9.16.3</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V210.5,MOLY.LR12A.R3.MP.V210.5</modem_version>
+    </paratype>
+    <paratype>
+        <platform>mt6739</platform>
+        <baseline>alps-mp-s0.mp1-V9.16.3</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V210.5,MOLY.LR12A.R3.MP.V210.5</modem_version>
+    </paratype>    
+    <paratype>
+        <platform>mt6765</platform>
+        <baseline>alps-mp-s0.mp1-V9.16.3</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V210.5,MOLY.LR12A.R3.MP.V210.5</modem_version>
+    </paratype>
+    <paratype>
+        <platform>mt6768</platform>
+        <baseline>alps-mp-s0.mp1-V9.16.3</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V210.5,MOLY.LR12A.R3.MP.V210.5</modem_version>
+    </paratype>
+<!--alps-mp-s0.mp1-V9.16.3-->
+<!--alps-mp-s0.mp1-V11.3.1-->
+    <paratype>
+        <platform>mt6768</platform>
+        <baseline>alps-mp-s0.mp1-V11.3.1</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V216.4,MOLY.LR12A.R3.MP.V216.4</modem_version>
+    </paratype>
+<!--alps-mp-s0.mp1-V11.3.1-->
+<!--alps-mp-s0.mp1-V12.5.1-->
+    <paratype>
+        <platform>mt6761</platform>
+        <baseline>alps-mp-s0.mp1.rc-V12.5.1</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V219.10,MOLY.LR12A.R3.MP.V219.10</modem_version>
+    </paratype>
+    <paratype>
+        <platform>mt6765</platform>
+        <baseline>alps-mp-s0.mp1.rc-V12.5.1</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V219.10,MOLY.LR12A.R3.MP.V219.10</modem_version>
+    </paratype>    
+    <paratype>
+        <platform>mt6739</platform>
+        <baseline>alps-mp-s0.mp1.rc-V12.5.1</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V219.10,MOLY.LR12A.R3.MP.V219.10</modem_version>
+    </paratype>
+    <paratype>
+        <platform>mt6768</platform>
+        <baseline>alps-mp-s0.mp1.rc-V12.5.1</baseline>
+        <modem_version>MOLY.LR12A.R3.MP.V219.10,MOLY.LR12A.R3.MP.V219.10</modem_version>
+    </paratype>     
+<!--alps-mp-s0.mp1-V12.5.1-->
+
+</parameter_infomations>
